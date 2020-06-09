@@ -55,7 +55,7 @@ crearBotonDNI = async(valor) => {
     }
 };
 
-// Estas dos funciones generan el contenido de los números, los valores adeudados
+// Estas dos funciones generan el contenido, los nombres:
 
 
 llamadaNombre = async(url,n) => {

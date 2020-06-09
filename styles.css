@@ -48,7 +48,7 @@ button {
 .nodoFuncionario {
     height: 100px;
     width: 20%;
-    background-color: grey;
+    border: grey;
     position: fixed;
 }
 
