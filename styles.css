@@ -1,0 +1,67 @@
+.padre {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+
+}
+.nodoContenedor {
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+img {
+    margin: 10px;
+    border-radius: 20%;
+}
+
+.nodoDos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;  
+    align-items: center;
+    
+}
+
+button {
+    margin: 17px;
+}
+
+.DNI {
+    width: 80px;
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.titular {
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nodoFuncionario {
+    height: 100px;
+    width: 20%;
+    background-color: grey;
+    position: fixed;
+}
+
+.nombreFuncionario {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+.deudaFuncionario {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
